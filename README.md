@@ -45,7 +45,7 @@ With this in the file requirements.yml:
 ```
 
 To run the tasks in this repository, first create this file one level above the repository
-(i.e. the playbook .yml and the directory `ubuntu2004_cis` should be next to each other),
+(i.e. the playbook .yml and the directory `Ubuntu2004-CIS` should be next to each other),
 then review the file `defaults/main.yml` and disable any rule/section you do not wish to execute.
 
 Assuming you named the file `site.yml`, run it with:
